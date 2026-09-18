@@ -34,11 +34,3 @@ I specialize in transforming unstructured, messy data into clean, structured, an
   *Automated system tracker leveraging LLM APIs and real-time webhook triggers to audit backend system health and execute routine data sync tasks.*
 * **[SQL-Process-Optimizer](https://github.com/Zanster01)**  
   *Advanced query suite engineered to analyze database performance bottlenecks, restructure indexing, and automate performance reporting scripts.*
-
----
-
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.ai/api?username=Zanster01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tushar's GitHub Stats" />
-</div>
