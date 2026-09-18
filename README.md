@@ -19,6 +19,14 @@ I specialize in transforming unstructured, messy data into clean, structured, an
 
 ---
 
+### 💼 Hire Me & Services
+I am available for freelance projects, remote contracts, and automation consulting. If you need to eliminate manual workflows, build robust Python scripts, or optimize SQL databases, let's talk.
+* **Email:** [Tusharsinghparihar11@gmail.com](mailto:Tusharsinghparihar11@gmail.com)
+* **LinkedIn:** [Tushar Singh LinkedIn Profile](https://www.linkedin.com/in/tushar-singh-5ba95b341?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* **Focus:** Python Automation, Data Pipelines, API Integrations, Process Optimization.
+
+---
+
 ### 🛠️ Core Technical Expertise
 * **Languages & Core:** Python (Pandas, NumPy, AsyncIO), Advanced SQL (Query Optimization, Indexing)
 * **Data Engineering:** ETL Pipeline Architecture, Automated Data Scraping, Data Cleaning & Validation
@@ -34,3 +42,11 @@ I specialize in transforming unstructured, messy data into clean, structured, an
   *Automated system tracker leveraging LLM APIs and real-time webhook triggers to audit backend system health and execute routine data sync tasks.*
 * **[SQL-Process-Optimizer](https://github.com/Zanster01)**  
   *Advanced query suite engineered to analyze database performance bottlenecks, restructure indexing, and automate performance reporting scripts.*
+
+---
+
+### 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.ai/api?username=Zanster01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tushar's GitHub Stats" />
+</div>
