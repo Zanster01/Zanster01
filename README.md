@@ -36,12 +36,13 @@ I am available for freelance projects, remote contracts, and automation consulti
 ---
 
 ### 📂 Featured Production Repositories
-* **[Enterprise-Data-Pipeline-Automation](https://github.com/Zanster01)**  
+* **[Enterprise-Data-Pipeline-Automation](https://github.com/Zanster01/Enterprise-Data-Pipeline-Automation)**  
   *Modular Python ETL engine built to ingest, sanitize, and transform high-volume multi-source datasets into clean database schemas with automated error-handling logging.*
-* **[AI-Agent-Workflow-Monitor](https://github.com/Zanster01)**  
+* **[AI-Agent-Workflow-Monitor](https://github.com/Zanster01/AI-Agent-Workflow-Monitor)**  
   *Automated system tracker leveraging LLM APIs and real-time webhook triggers to audit backend system health and execute routine data sync tasks.*
-* **[SQL-Process-Optimizer](https://github.com/Zanster01)**  
+* **[SQL-Process-Optimizer](https://github.com/Zanster01/SQL-Process-Optimizer)**  
   *Advanced query suite engineered to analyze database performance bottlenecks, restructure indexing, and automate performance reporting scripts.*
+
 
 ---
 
