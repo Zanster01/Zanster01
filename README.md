@@ -45,8 +45,7 @@ I am available for freelance projects, remote contracts, and automation consulti
 
 ---
 
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.ai/api?username=Zanster01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tushar's GitHub Stats" />
-</div>
+### 📊 Professional Metrics & Activity
+* **Core Focus:** Backend Engineering, Python Automation, and Data Engineering
+* **Code Standard:** Production-Ready, Modular Architecture, and Clean Documentation
+* **Availability:** Open for Remote Contracts, Freelance Projects, and Consulting
